@@ -6,4 +6,8 @@ Deep Learning, An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Cou
 
 英文版 http://www.deeplearningbook.org/
 
-中文版 https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf
+PDF 版 https://github.com/aiedward/aiacademy/blob/master/DeepLearning_Book_en.pdf
+
+中文版 https://exacity.github.io/deeplearningbook-chinese/
+
+PDF 版 https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf
